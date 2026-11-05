@@ -1,0 +1,12 @@
+
+# Dependencias de Node.js
+node_modules/
+
+# Contraseñas y variables privadas
+.env
+.env.*
+!.env.example
+
+# Archivos temporales
+*.log
+npm-debug.log*
